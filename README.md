@@ -1,2 +1,2 @@
-# C-Project
+# C++ Project
 university course work
